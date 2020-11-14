@@ -1,0 +1,7 @@
+.navbar-light {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 0 5px 0 rgb(251, 94, 88);
+}

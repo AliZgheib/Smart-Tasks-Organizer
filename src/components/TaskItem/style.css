@@ -1,0 +1,54 @@
+.task-item {
+  margin: 30px 0;
+  display: grid;
+  grid-template-columns: 2.5fr 1fr 1fr;
+  grid-column-gap: 10px;
+  border-bottom: 1px solid rgb(251, 94, 88);
+}
+
+.task-item .task-item-content {
+  font-size: 20px;
+  color: rgb(83, 83, 83);
+}
+.task-item .task-item-category {
+  font-size: 20px;
+  color: rgb(83, 83, 83);
+}
+.task-item .task-item-up {
+  font-size: 20px;
+  color: lightblue;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.task-item .task-item-up:hover {
+  color: blue;
+}
+
+.task-item .task-item-down {
+  font-size: 20px;
+  color: rgb(250, 124, 119);
+  margin: 0 5px;
+  cursor: pointer;
+}
+.task-item .task-item-down:hover {
+  color: red;
+}
+
+.task-item .task-item-edit {
+  font-size: 20px;
+  color: lightgreen;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.task-item .task-item-edit:hover {
+  color: green;
+}
+.task-item .task-item-trash {
+  font-size: 20px;
+  color: rgb(83, 83, 83);
+  margin: 0 5px;
+  cursor: pointer;
+}
+.task-item .task-item-trash:hover {
+  color: black;
+}
