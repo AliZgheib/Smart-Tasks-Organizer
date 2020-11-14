@@ -10,7 +10,7 @@ Smart Tasks Organizer is a web application developped using React JS framework. 
 2. Create a new Task List.
 3. Create a new Task.
 4. Update the title or the content or any Task.
-5  Update the status of any Task.
+5. Update the status of any Task.
 6. Delete any Task or a Task List.
 
 ## Security Vulnerabilities
